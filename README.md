@@ -24,16 +24,17 @@ A simple GUI application to download YouTube videos and combine video and audio 
    git clone https://github.com//ArexAnkit/Youtube-Downloder.git
    cd Youtube-Downloder
 
-##**Install the required libraries**:
+2. ##**Install the required libraries**:
    ```sh
    pip install pytube
    pip install moviepy
    pip install tk
    
 
-##**Usage**
-Run the application:
-python downloader.py
+3. ##**Usage**
+   Run the application:
+   ```sh
+   python downloader.py
 
 Enter the YouTube link in the provided field.
 Select the download directory by clicking the “Browse” button.
